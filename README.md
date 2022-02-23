@@ -31,7 +31,7 @@ Before running the server, you need to set up NAT Forwarding in your router sett
 
 ## Server console commands
 
-You can open console by pressing: If on Android, 4 fingers on the screen, If on Windows, by pressing "`" on your keyboard.
+You can open console by pressing: If on Android, 4 fingers on the screen, If on Windows, by pressing "`" on your keyboard.<br/>
 ![key-button](https://user-images.githubusercontent.com/33956083/155344734-9d62f819-8d01-4038-bca7-cbe6f0ec9e8c.png)
 
 - open L_levelName - Will open selected level
