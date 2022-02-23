@@ -14,7 +14,7 @@ Simply, install apk the way that are most suitable for you.
 
 Just run exe file from game folder
 
-##### Note! Since game was developed mostly for mobile devices, UI may look weird in fullscreen, just press ALT+Enter and resieze it as you want.
+###### Note! Since game was developed mostly for mobile devices, UI may look weird in fullscreen, just press ALT+Enter and resieze it as you want.
 
 
 ## Server Running
