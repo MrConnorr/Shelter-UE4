@@ -47,3 +47,7 @@ Existing levels:
 ## Troubleshooting
 
 Most troubleshooting comes just with restarting the server, but if there are any problems with UI or player side, just make an issue and I will look into it.
+
+## Translation
+
+The main language of the game was Russian, I have translated the main UI components like buttons and labels to English but the main content (like player stats) is in Russian. If someone really need it, I can translate it to English upon request. Or you can do it yourself, content located in Content/Data/ just keep in mind the structure of the file. Here is the link to the Shelter Content Google Table: https://bit.ly/3pdaLBt. You can add your own stuff or translate it and then just convert it to Excel file and replace in the above mentioned folder.
